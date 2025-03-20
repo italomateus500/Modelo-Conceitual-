@@ -31,3 +31,8 @@ CREATE TABLE Pedido_Produto (
     FOREIGN KEY (ID_Pedido) REFERENCES Pedido(ID_Pedido),
     FOREIGN KEY (ID_Produto) REFERENCES Produto(ID_Produto)
 );
+
+
+
+![image](https://github.com/user-attachments/assets/2a2957d7-d029-46a4-ad04-20032b3f7dd7)
+
